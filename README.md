@@ -1,10 +1,8 @@
 
 
-# Hi, my name is Vlad
+<img alt="Poster" style="vertical-align: middle;" src="Untitled (1).png"  />
 
-## I am a junior Fullstack developer
-
-### languages and tools
+## languages and tools
 
 <div style="display: flex; align-items: start-flex">
 <p style="width:150px;"><img alt="VSC" height="26px" width="26px" style="vertical-align: middle;" src="icons8-visual-studio-code-2019-48.png"  /> - VSCode</p>
