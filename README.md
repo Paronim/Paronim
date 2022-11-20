@@ -2,10 +2,10 @@
 
 <img alt="Poster" style="vertical-align: middle;" src="Untitled (2).png"  />
 
-# :scream_cat: About me
-:smoking: I am a junior Full stack developer from Russia    
-:speak_no_evil: I study and do projects on the sly    
-:briefcase: While unemployed :smiley:    
+# About me:
+I am a junior Full stack developer from Russia :smoking:       
+I study and do projects on the sly    
+While unemployed   
 
 
 
