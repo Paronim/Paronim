@@ -2,7 +2,14 @@
 
 <img alt="Poster" style="vertical-align: middle;" src="Untitled (2).png"  />
 
-# languages and tools
+# :scream_cat: About me
+:smoking: I am a junior Full stack developer from Russia    
+:speak_no_evil: I study and do projects on the sly    
+:briefcase: While unemployed :smiley:    
+
+
+
+# :bug: languages and tools
 
 
 <img alt="VSC" height="26px" width="26px" style="vertical-align: middle;" src="icons8-visual-studio-code-2019-48.png"  /><img alt="IDEA" height="26px" width="26px" style="vertical-align: middle;" src="pngegg.png"  /><img alt="Java" height="26px" width="26px" style="vertical-align: middle;" src="icons8-логотип-java-coffee-cup-48.png"  /><img alt="JS" height="26px" width="26px" style="vertical-align: middle;" src="icons8-javascript-48.png"  />
