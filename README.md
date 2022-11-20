@@ -13,8 +13,7 @@
 <p><img alt="HTML5" height="26px" width="26px" style="vertical-align: middle;" src="icons8-html-5-48.png"  /> - HTML5</p>
 <p><img alt="CSS3" height="26px" width="26px" style="vertical-align: middle;" src="icons8-css3-48.png"  /> - CSS5</p>
 <p><img alt="SASS" height="26px" width="26px" style="vertical-align: middle;" src="icons8-sass-avatar-48.png"  /> - SASS</p>
-<p><img alt="Spring" height="26px" width="26px" style="vertical-align: middle;" src="pngegg (1).png"  /> - Spring Boot</p>
-<p><img alt="Spring" height="26px" width="26px" style="vertical-align: middle;" src="pngegg (1).png"  /> - Spring Boot</p>
+<p><img alt="Spring" height="26px" width="35px" style="vertical-align: middle;" src="pngegg (1).png"  /> - Spring Boot</p>
 <p><img alt="Spring" height="26px" width="26px" style="vertical-align: middle;" src="pngegg (2).png"  /> - PostgreSQL</p>
 And other
 
