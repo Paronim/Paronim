@@ -3,9 +3,9 @@
 <img alt="Poster" style="vertical-align: middle;" src="Untitled (2).png"  />
 
 # About me:
-1. I am a junior Full stack developer from Russia         
-2. I study and do projects on the sly    
-3. While unemployed   
+<li> I am a junior Full stack developer from Russia         
+<li> I study and do projects on the sly    
+<li> While unemployed   
 
 
 
