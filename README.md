@@ -1,7 +1,7 @@
 
 
 # About me:
-<li> I am a Fullstack developer from         
+<li> I am a Fullstack developer         
 
 # :bug: languages and tools
 
