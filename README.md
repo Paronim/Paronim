@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Telegram](free-icon-telegram-2111646.png)
-](https://t.me/jlan_tel) [![email](free-icon-gmail-732200.png)
+](https://t.me/jlan_tel)   [![email](free-icon-gmail-732200.png)
 ](mailto:zreba.v@gmail.com) 
 
 # 💻 Tech Stack:
